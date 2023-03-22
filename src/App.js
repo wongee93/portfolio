@@ -1,12 +1,24 @@
+import { Routes, Route } from 'react-router-dom';
+import Navbar from "./Navbar";
+import Aboutme from "./Aboutme"
+import Skill from "./Skill"
+import Project from "./Project"
+import Workexperience from "./Workexperience"
+import Education from "./Education"
+
 function App() {
   return (
-    <div className="App">
-      <header className="text-gray-100 bg-blue-500 text-center p-5 align-middle">
-        tailwind test
-      </header>
-      <h1>test</h1>
-    </div>
-  );
+    <>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Aboutme />} />
+        <Route path="/skill" element={<Skill />} />
+        <Route path="/project" element={<Project />} />
+        <Route path="/work" element={<Workexperience />} />
+        <Route path="/education" element={<Education />} />
+      </Routes>
+    </>
+  )
 }
 
 export default App;
