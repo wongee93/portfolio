@@ -8,16 +8,18 @@ import Education from "./Education"
 
 function App() {
   return (
-    <>
+    <div className='containerWrapper'>
       <Navbar />
-      <Routes>
-        <Route path="/" element={<Aboutme />} />
-        <Route path="/skill" element={<Skill />} />
-        <Route path="/project" element={<Project />} />
-        <Route path="/work" element={<Workexperience />} />
-        <Route path="/education" element={<Education />} />
-      </Routes>
-    </>
+      <div className='container'>
+        <Routes>
+          <Route path="/" element={<Aboutme />} />
+          <Route path="/skill" element={<Skill />} />
+          <Route path="/project" element={<Project />} />
+          <Route path="/work" element={<Workexperience />} />
+          <Route path="/education" element={<Education />} />
+        </Routes>
+      </div>
+    </div>
   )
 }
 
