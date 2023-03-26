@@ -29,3 +29,8 @@ code {
   /* border: solid black; */
   margin-top: 50px;
 }
+
+.card-image {
+  width: 385px;
+  height: 220px;
+}
