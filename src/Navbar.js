@@ -8,11 +8,11 @@ export default function Navbar() {
                     <div className="flex lg:flex-1">
                     </div>
                     <div className="lg:flex lg:space-x-12">
-                        <Link to="/" className="text-xl font-semibold leading-6 text-gray-900">About Me</Link>
-                        <Link to="/skill" className="text-xl font-semibold leading-6 text-gray-900">Skill</Link>
-                        <Link to="/project" className="text-xl font-semibold leading-6 text-gray-900">Project</Link>
-                        <Link to="/work" className="text-xl font-semibold leading-6 text-gray-900">Work Experience</Link>
-                        <Link to="/education" className="text-xl font-semibold leading-6 text-gray-900">Education</Link>
+                        <Link to="/" className="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">About Me</Link>
+                        <Link to="/skill" className="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">Skill</Link>
+                        <Link to="/project" className="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">Project</Link>
+                        <Link to="/work" className="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">Work Experience</Link>
+                        <Link to="/education" className="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">Education</Link>
                     </div>
                     <div className="lg:flex lg:flex-1 lg:justify-end">
                     </div>
