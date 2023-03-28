@@ -26,6 +26,12 @@ export default function Skill() {
                 </div>
             </div>
             <div class="max-w-sm rounded overflow-hidden shadow-lg m-10 transform hover:scale-110">
+                <img class="card-image" src="https://hanamon.kr/wp-content/uploads/2021/07/redux-logo.png" alt="redux" />
+                <div class="px-6 py-4 text-center">
+                    <div class="font-bold text-xl mb-2">Redux</div>
+                </div>
+            </div>
+            <div class="max-w-sm rounded overflow-hidden shadow-lg m-10 transform hover:scale-110">
                 <img class="card-image" src="https://www.zigae.com/static/7666417ed492feef76bbe9fd146a4192/e9beb/styledcomponents.png" alt="Styled Components" />
                 <div class="px-6 py-4 text-center">
                     <div class="font-bold text-xl mb-2">Styled Components</div>

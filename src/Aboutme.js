@@ -1,9 +1,9 @@
 export default function Aboutme() {
     return (
         <>
-            <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
+            <div class="px-4 py-2 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
                 <div class="sm:col-span-1 sm:flex sm:items-center">
-                    <img class="inline-block" src="/JihyunWon.jpg" alt="" width="110" height="auto" />
+                    <img class="inline-block ml-10" src="/JihyunWon.jpg" alt="" width="110" height="auto" />
                 </div>
                 <div class="sm:flex sm:flex-col sm:justify-center">
                     <dt class="mt-6 mb-3 text-3xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">원지현</dt>
@@ -14,23 +14,23 @@ export default function Aboutme() {
             <div class="mt-6 border-t border-gray-100">
                 <div class="divide-y divide-gray-100">
                     <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-                        <dt class="mt-6 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Email address</dt>
+                        <dt class="mt-6 ml-10 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Email address</dt>
                         <dd class="mt-1 text-xl leading-6 text-black-700 sm:col-span-2 sm:mt-0">won_gee@naver.com</dd>
                     </div>
                     <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-                        <dt class="mt-6 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Phone</dt>
+                        <dt class="mt-6 ml-10 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Phone</dt>
                         <dd class="mt-1 text-xl leading-6 text-black-700 sm:col-span-2 sm:mt-0">010-5324-3448</dd>
                     </div>
                     <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-                        <dt class="mt-6 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Blog</dt>
+                        <dt class="mt-6 ml-10 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Blog</dt>
                         <dd class="mt-1 text-xl leading-6 sm:col-span-2 sm:mt-0 text-blue-500"><a target="_blank" href="https://velog.io/@won_gee">https://velog.io/@won_gee</a></dd>
                     </div>
                     <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-                        <dt class="mt-6 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Github</dt>
+                        <dt class="mt-6 ml-10 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Github</dt>
                         <dd class="mt-1 text-xl leading-6 sm:col-span-2 sm:mt-0 text-blue-500"><a target="_blank" href="https://github.com/wongee93">https://github.com/wongee93</a></dd>
                     </div>
                     <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-                        <dt class="mt-6 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Introduce</dt>
+                        <dt class="mt-6 ml-10 text-2xl font-semibold leading-6 text-gray-900 sm:mt-0 sm:col-span-1">Introduce</dt>
                         <dd class="mt-1 text-lg leading-6 text-black-700 sm:col-span-2 sm:mt-0">
                             <p><span class="text-red-500 font-semibold">3년간 IT솔루션 회사에서 재직</span>하였습니다.</p>
                             <p class="mt-3">영업 직무를 수행하며 경청을 통해 고객과 회사간 중간점을 찾아야 했고 다양한 부서와 고객간의 소통을 도모하였습니다.</p>

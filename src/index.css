@@ -28,6 +28,7 @@ code {
 .container {
   /* border: solid black; */
   margin-top: 50px;
+  width: 80vw;
 }
 
 .card-image {
