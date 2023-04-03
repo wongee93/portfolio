@@ -35,3 +35,46 @@ code {
   width: 385px;
   height: 220px;
 }
+
+.header{
+  width: 100vw;
+  background-color: #e9e9e9;
+}
+
+@media (max-width: 1014px) {
+  .alternative-element {
+    display: block; 
+  }
+  .nav-bar {
+    display: none;
+  }
+}
+
+@media (min-width: 1015px) {
+  .alternative-element {
+    display: none; 
+  }
+}
+
+.mobile-navbar {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo{
+  position: absolute;
+  cursor: pointer;
+  margin-top: 10px;
+  right: 3%;
+  font-size: 40px;
+}
+
+.menu_list{
+  margin-top: 80px;
+}
+
+.menu_list ul li{
+  margin-bottom: 25px;
+  text-align: center;
+}
+
