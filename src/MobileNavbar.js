@@ -3,17 +3,17 @@ import { Link } from "react-router-dom";
 
 export default function MobileNavbar() {
 
-    const [isOpen, setIsOpen] = useState(false);
+    const [isMobile, setIsMobile] = useState(false);
 
     const toggleMenu = () => {
-        setIsOpen(!isOpen);
+        setIsMobile(!isMobile);
     };
 
     return (
         <div className="mobile-navbar">
             <div className="logo" onClick={toggleMenu}>☰</div>
             <div className='menu_list'>
-                {isOpen && (
+                {isMobile && (
                     <ul>
                         <li><Link to="/" class="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">About Me</Link></li>
                         <li><Link to="/skill" class="text-xl font-semibold leading-6 text-gray-900 hover:text-blue-500">Skill</Link></li>
