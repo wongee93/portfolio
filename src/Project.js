@@ -127,7 +127,7 @@ export default function Project() {
                         </p>
 
                         <div class="mt-6 ml-2 sm:flex sm:flex-col sm:justify-center">
-                            <span class="text-m font-bold text-blue-700 mr-2 mb-2"><a target="_blank" href="">👉 배포 링크 바로가기</a></span>
+                            <span class="text-m font-bold text-blue-700 mr-2 mb-2"><a target="_blank" href="https://portfolio-wheat-phi.vercel.app/">👉 배포 링크 바로가기</a></span>
                             <span class="text-m font-bold text-blue-700 mr-2 mb-2"><a target="_blank" href="https://github.com/wongee93/portfolio">👉 깃허브 바로가기</a></span>
                         </div>
                         <div class="mt-5 mb-10">
