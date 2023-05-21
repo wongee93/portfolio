@@ -2,7 +2,7 @@
 개인 이력이나 프로젝트 진행사항을 업데이트하는 포트폴리오 페이지입니다.
 
 ## 배포주소
-[https://sorting-bars.vercel.app/](https://portfolio-wheat-phi.vercel.app/)
+https://portfolio-wheat-phi.vercel.app/
 
 ## 사용스택
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
