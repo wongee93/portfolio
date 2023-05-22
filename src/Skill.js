@@ -2,7 +2,7 @@ export default function Skill() {
     return (
         <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 xl:grid-cols-3 sm:px-0">
             <div class="max-w-sm rounded overflow-hidden shadow-lg m-10 transform hover:scale-110">
-                <img class="card-image" src="https://daedaem.netlify.app/static/54a24310f75e8c5b77a88f60776ae4c3/ab163/Typescript_logo.png" alt="Typescript" />
+                <img class="card-image" src="https://res.cloudinary.com/practicaldev/image/fetch/s--qry0KDcy--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0jj57mtw4ytw4df7wizm.png" alt="Typescript" />
                 <div class="px-6 py-4 text-center">
                     <div class="font-bold text-xl mb-2">Typescript</div>
                 </div>
