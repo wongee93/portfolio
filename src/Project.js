@@ -4,7 +4,7 @@ export default function Project() {
             <div class="px-4 py-2 4xs:grid 4xs:grid-cols-1 4xs:gap-1 4xs:px-10 rounded-3xl mb-10 border border-gray-400">
                 <div class="sm:col-span-1 sm:flex sm:justify-center">
                     <div class="flex justify-center">
-                        <img class="inline-block self-center" src="/class4989.png" alt="" width="350" />
+                        <img class="inline-block self-center rounded" src="/class4989.png" alt="" width="350" />
                     </div>
                     <div class="ml-10 sm:col-span-2 sm:flex sm:flex-col sm:justify-center">
                         <div class="text-gray-900 font-bold text-3xl pt-5 pb-5 mt-10 mb-2">CLASS 4989</div>
@@ -58,7 +58,7 @@ export default function Project() {
             <div class="px-4 py-2 4xs:grid 4xs:grid-cols-1 4xs:gap-1 4xs:px-10 rounded-3xl mb-10 border border-gray-400">
                 <div class="sm:col-span-1 sm:flex sm:justify-center">
                     <div class="flex justify-center">
-                        <img class="inline-block self-center" src="/sortingbar.png" alt="" width="350" />
+                        <img class="inline-block self-center rounded" src="/sortingbar.png" alt="" width="350" />
                     </div>
                     <div class="ml-10 sm:col-span-2 sm:flex sm:flex-col sm:justify-center">
                         <div class="text-gray-900 font-bold text-3xl pt-5 pb-5 mt-10 mb-2">Sorting Bars</div>
@@ -109,7 +109,7 @@ export default function Project() {
             <div class="px-4 py-2 4xs:grid 4xs:grid-cols-1 4xs:gap-1 4xs:px-10 rounded-3xl mb-10 border border-gray-400 pt-10 pb-10">
                 <div class="sm:col-span-1 sm:flex sm:justify-center">
                     <div class="flex justify-center">
-                        <img class="inline-block self-center" src="/myportfolio.png" alt="" width="350" />
+                        <img class="inline-block self-center rounded" src="/myportfolio.png" alt="" width="350" />
                     </div>
                     <div class="ml-10 sm:col-span-2 sm:flex sm:flex-col sm:justify-center">
                         <div class="text-gray-900 font-bold text-3xl pt-5 pb-5 mt-10 mb-2">Jihyun's Portfolio</div>
