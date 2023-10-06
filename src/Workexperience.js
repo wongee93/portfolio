@@ -8,7 +8,7 @@ export default function Workexperience() {
 
                 <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
                     <div class="mt-1 ml-10 text-m text-black-700 sm:col-span-2 sm:mt-0">
-                        <p><span class="text-gray-500 font-semibold">2023.07-2023.09</span></p>
+                        <p><span class="text-gray-500 font-semibold text-lg">2023.07-2023.09</span></p>
                         <p class="mt-5 font-semibold">
                             • <span class="text-red-500">개발 환경 구축</span>
                         </p>
@@ -44,7 +44,7 @@ export default function Workexperience() {
 
                 <div class="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
                     <div class="mt-1 ml-10 text-m text-black-700 sm:col-span-2 sm:mt-0">
-                        <p><span class="text-gray-500 font-semibold">2019.08-2022.06</span></p>
+                        <p><span class="text-gray-500 font-semibold text-lg">2019.08-2022.06</span></p>
                         <p class="mt-5 font-semibold">
                             • <span class="text-red-500">서비스 기획</span> 및 <span class="text-red-500">솔루션 업무</span> 담당
                         </p>

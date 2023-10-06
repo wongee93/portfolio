@@ -7,9 +7,9 @@ export default function Project() {
                         <img class="inline-block self-center rounded" src="/class4989.png" alt="" width="350" />
                     </div>
                     <div class="ml-10 sm:col-span-2 sm:flex sm:flex-col sm:justify-center">
-                        <div class="text-gray-900 font-bold text-3xl pt-5 pb-5 mt-10 mb-2">CLASS 4989</div>
+                        <div class="text-gray-900 font-bold text-3xl pt-2 pb-2 mt-10 mb-2">CLASS 4989</div>
                         <p class="text-black-700 text-lg text-base">
-                            Class4989는 ‘누구나 쉽게 배움을 공유하고 배울 수 있다.’ 는 취지를 기반으로 한 교육 모바일 웹 앱 서비스입니다.
+                            ‘누구나 쉽게 배움을 공유하고 배울 수 있다.’ 는 취지를 기반으로 한 교육 모바일 웹 앱 서비스입니다.
                         </p>
                         <p class="text-gray-600 text-base mt-4">
                             - 6인 팀프로젝트
@@ -61,9 +61,9 @@ export default function Project() {
                         <img class="inline-block self-center rounded" src="/sortingbar.png" alt="" width="350" />
                     </div>
                     <div class="ml-10 sm:col-span-2 sm:flex sm:flex-col sm:justify-center">
-                        <div class="text-gray-900 font-bold text-3xl pt-5 pb-5 mt-10 mb-2">Sorting Bars</div>
+                        <div class="text-gray-900 font-bold text-3xl pt-2 pb-2 mt-10 mb-2">Sorting Bars</div>
                         <p class="text-black-700 text-lg text-base">
-                            높이가 랜덤하게 주어지는 Bar들을 다양한 정렬 알고리즘을 통해 정렬하는 과정을 시각적으로 확인할 수 있습니다.
+                            랜덤한 높이의 Bar들을 다양한 정렬 알고리즘을 통해 정렬하는 과정을 시각적으로 확인할 수 있습니다.
                         </p>
                         <p class="text-gray-600 text-base mt-4">
                             - 각 Bar들의 높이를 숫자로 표시하여 정렬과정을 제대로 볼 수 있도록 하였습니다.
@@ -112,9 +112,9 @@ export default function Project() {
                         <img class="inline-block self-center rounded" src="/myportfolio.png" alt="" width="350" />
                     </div>
                     <div class="ml-10 sm:col-span-2 sm:flex sm:flex-col sm:justify-center">
-                        <div class="text-gray-900 font-bold text-3xl pt-5 pb-5 mt-10 mb-2">Jihyun's Portfolio</div>
+                        <div class="text-gray-900 font-bold text-3xl pt-2 pb-2 mt-10 mb-2">Jihyun's Portfolio</div>
                         <p class="text-black-700 text-lg text-base">
-                            발전하는 프론트엔드 개발자 원지현의 개인 이력이나 프로젝트 진행사항을 업데이트하는 포트폴리오 홈페이지입니다.
+                            프론트엔드 개발자 원지현의 개인 이력, 프로젝트 진행사항을 업데이트하는 포트폴리오 홈페이지입니다.
                         </p>
                         <p class="text-gray-600 text-base mt-14">
                             - React 기반 <span class="text-red-600 font-semibold">SPA</span> 홈페이지
